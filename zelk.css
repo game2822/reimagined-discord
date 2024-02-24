@@ -4,6 +4,7 @@
 /*--------------IMPORTS------------- */
 @import url(https://schnensch0.github.io/zelk/main.css);
 @import url(https://crearts-community.github.io/Settings-Icons/clients/powercord.css);
+@import url(https://seele1306.github.io/Snippets/GuildList/import.css);
 /*--------------COLORS---------------*/
 /*------remove / and * to apply------*/
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/blue.css); */
@@ -28,6 +29,8 @@
   --font-display: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   --border-radius-1: 10px;
   --border-radius-2: 8px;
+ --guild-item-radius: 4px; /* 50px for round */
+--guild-item-spacing: 4px;
 }
 /*-----------CUSTOM COLORS-----------*/
 /*-------------DARK MODE-------------*/
